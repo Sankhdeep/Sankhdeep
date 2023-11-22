@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sankhdeepgoswam" target="blank"><img src="https://img.shields.io/twitter/follow/sankhdeepgoswam?logo=twitter&style=for-the-badge" alt="sankhdeepgoswam" /></a> </p>
 
-- 🔭 I’m currently working on **Google play store EDA**
+- 🔭 I’m currently working on **Python and SQL**
 
 - 🌱 I’m currently learning **Data Science**
 
