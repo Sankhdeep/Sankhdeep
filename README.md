@@ -1,4 +1,4 @@
-# Hi there! I'm Sankhdeep Goswami
+# Hi there! I'm Sankhdeep Goswami (Data Science Enthusiast)
 
 Passionate about coding and technology. Welcome to my GitHub profile!
 
