@@ -1,22 +1,30 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! I'm Sankhdeep Goswami
 
-Passionate about coding and technology. Welcome to my GitHub profile! 😊
-
-## 🔧 Technologies & Tools
+Passionate about coding and technology. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat&logo=notepad%2B%2B&logoColor=white)
+
 ![Spyder](https://img.shields.io/badge/-Spyder-FFD43B?style=flat&logo=spyder-ide&logoColor=white)
+
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 
