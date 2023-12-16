@@ -1,30 +1,38 @@
-<h1 align="center">Hi 👋, I'm Sankhdeep Goswami</h1>
-<h3 align="center">A passionate Data Scientist Enthusiast from India</h3>
+# Hi there! 👋 I'm [Your Name]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhdeep&label=Profile%20views&color=0e75b6&style=flat" alt="sankhdeep" /> </p>
+Passionate about coding and technology. Welcome to my GitHub profile! 😊
 
-<p align="left"> <a href="https://twitter.com/sankhdeepgoswam" target="blank"><img src="https://img.shields.io/twitter/follow/sankhdeepgoswam?logo=twitter&style=for-the-badge" alt="sankhdeepgoswam" /></a> </p>
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on **Python and SQL**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-- 🌱 I’m currently learning **Data Science**
+## 📚 Education
 
-- 📝 I regularly write blogs on [https://www.blogger.com/blog/posts/6247419126213370932](https://www.blogger.com/blog/posts/6247419126213370932)
+- **Degree Name** - University Name (Year started - Year completed)
 
-- 📫 How to reach me **sankhdeep.130@gmail.com**
+## 💼 Experience
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sankhdeep-goswami/](https://www.linkedin.com/in/sankhdeep-goswami/)
+- **Job Title** - Company Name (Year started - Year ended)
+  Description of your role and key achievements.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sankhdeepgoswam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sankhdeepgoswam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sankhdeep goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankhdeep goswami" height="30" width="40" /></a>
-<a href="https://kaggle.com/sankhdeep goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sankhdeep goswami" height="30" width="40" /></a>
-<a href="[https://fb.com/sankhdeep goswami](https://www.facebook.com/profile.php?id=100088551794313)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankhdeep goswami" height="30" width="40" /></a>
-<a href="https://instagram.com/sankhdeep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankhdeep_goswami" height="30" width="40" /></a>
-</p>
+- **Job Title** - Company Name (Year started - Year ended)
+  Description of your role and key achievements.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📱 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankhdeep&show_icons=true&locale=en" alt="sankhdeep" /></p>
+Connect with me on other platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](Your GitHub Profile Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your LinkedIn Profile Link)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](Your Facebook Profile Link)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](Your Instagram Profile Link)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Your Twitter Profile Link)
+
+Feel free to explore my repositories, and don't hesitate to reach out! 😄
