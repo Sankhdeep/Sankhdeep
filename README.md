@@ -20,7 +20,7 @@
 <a href="https://twitter.com/sankhdeepgoswam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sankhdeepgoswam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sankhdeep goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankhdeep goswami" height="30" width="40" /></a>
 <a href="https://kaggle.com/sankhdeep goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sankhdeep goswami" height="30" width="40" /></a>
-<a href="https://fb.com/sankhdeep goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankhdeep goswami" height="30" width="40" /></a>
+<a href="[https://fb.com/sankhdeep goswami](https://www.facebook.com/profile.php?id=100088551794313)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankhdeep goswami" height="30" width="40" /></a>
 <a href="https://instagram.com/sankhdeep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankhdeep_goswami" height="30" width="40" /></a>
 </p>
 
